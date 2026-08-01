@@ -228,6 +228,28 @@ See
 for the full operational translation, source ledger, and methodological blind
 spots.
 
+## Skill Provenance and Attribution
+
+The executable research workflow was informed by
+[`HKUSTDial/Supervisor-Skills`](https://github.com/HKUSTDial/Supervisor-Skills),
+pinned to commit
+[`aff5de9e5b902df0ef51e955d4c78b22793d763a`](https://github.com/HKUSTDial/Supervisor-Skills/commit/aff5de9e5b902df0ef51e955d4c78b22793d763a).
+
+- The
+  [`Deep Research Skill`](https://github.com/HKUSTDial/Supervisor-Skills/blob/aff5de9e5b902df0ef51e955d4c78b22793d763a/skills/deep-research/SKILL.md)
+  informed brief freezing, evidence-first inquiry, reference verification,
+  quality gates, and inspectable intermediate artifacts.
+- The
+  [`Idea Evaluator Skill`](https://github.com/HKUSTDial/Supervisor-Skills/blob/aff5de9e5b902df0ef51e955d4c78b22793d763a/skills/idea-evaluator/SKILL.md)
+  was consulted to define a non-transfer boundary. This repository does not use
+  its future-facing idea scores, lifecycle verdicts, or Accept/Reject model to
+  assess a completed practice or a person's value.
+
+See
+[`references/workflow-provenance.md`](./personal-practice-curatorial-research/references/workflow-provenance.md)
+for the full attribution, license notes, adapted operations, and methodological
+boundaries.
+
 ## Handoff to Portfolio Editing
 
 This repository answers:

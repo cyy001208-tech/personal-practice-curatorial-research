@@ -12,6 +12,7 @@ Use these models as operations, not decorative references. Select only the metho
 - Lumbung and relational authorship
 - Archive as displayed argument
 - Interpretive hierarchy and audience
+- Research workflow provenance
 - Source note
 
 ## Individual mythology and the archipelago
@@ -138,6 +139,22 @@ Apply by:
 - rejecting attractive material that does not serve the case.
 
 Guard against reducing a complex person to a slogan. The Big Idea is an interpretive proposition derived from a documented comparison, not a permanent identity or the first attractive phrase.
+
+## Research workflow provenance
+
+The executable research discipline also draws on the
+[`Deep Research Skill`](https://github.com/HKUSTDial/Supervisor-Skills/blob/aff5de9e5b902df0ef51e955d4c78b22793d763a/skills/deep-research/SKILL.md)
+from `HKUSTDial/Supervisor-Skills`, pinned to commit `aff5de9`. It contributes
+brief freezing, evidence-first inquiry, reference verification, explicit
+quality gates, and inspectable intermediate artifacts.
+
+The sibling
+[`Idea Evaluator Skill`](https://github.com/HKUSTDial/Supervisor-Skills/blob/aff5de9e5b902df0ef51e955d4c78b22793d763a/skills/idea-evaluator/SKILL.md)
+was consulted as a boundary. Its future-facing scoring and verdict model is not
+used to assess a completed practice or a person's value.
+
+Read [workflow-provenance.md](workflow-provenance.md) for the full attribution,
+operational translation, license notes, and non-transfer boundaries.
 
 ## Source note
 
