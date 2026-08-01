@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人实践策展研究"
+  short_description: "Compare evidence-led portraits, then curate a practice"
+  default_prompt: "Use $personal-practice-curatorial-research to study my selected project files, compare two or three plausible interpretations of my practice, assess them against evidence and counterevidence, and only then build a curatorial research framework."
